@@ -1,5 +1,7 @@
 # Papyrium – Releases
 
+> **Early Preview** — Papyrium is in active development. Expect bugs, rough edges, and occasional breaking changes between releases. Back up your library before updating.
+  
 This repository is used for distributing official Papyrium builds and tracking issues.
 
 It does NOT contain application source code.

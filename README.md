@@ -1,6 +1,6 @@
 # Papyrium – Releases
 
-> **Early Preview** — Papyrium is in active development. Expect bugs, rough edges, and occasional breaking changes between releases. Back up your library before updating.
+> **Public alpha** — Papyrium is in active development. Expect bugs, rough edges, and occasional breaking changes between releases. Back up your library before updating.
 
 <p align="center">
   <picture>
@@ -37,7 +37,11 @@ Papyrium is a desktop app for building and managing your personal digital book l
 - "Currently Reading", "Recently Added", and "Favorites" smart collections out of the box
 - Per-book notes panel
 
-AI-powered features are on the way as an optional add-on.
+### AI agent connection (MCP)
+- Connect your own AI agent — Claude Code, Codex, or Claude Desktop via a built-in one-click setup — to search and browse your library
+- Read-only by default; editing and deleting each need a separate opt-in, and moving, merging, or trashing books starts as a dry-run preview
+- Every change an agent makes is logged, and most edits can be undone with one click
+- Only metadata, file paths, and your own annotations are exposed — never the full text of your books, and Papyrium has no built-in AI assistant of its own
 
 ## Requirements
 
@@ -54,7 +58,11 @@ Papyrium is signed with an Apple Developer ID and notarized, so there's no "unid
 
 ## Pricing
 
-Free during the public alpha. A paid version is planned later, with a founding discount for early users — subscribe to the newsletter on [papyriumlib.com](https://papyriumlib.com) to get it.
+Free during the public alpha, and alpha versions stay free to use after it ends. A paid version is planned for later releases, with a founding discount for early users — subscribe to the newsletter on [papyriumlib.com](https://papyriumlib.com) to get it.
+
+## Terms and privacy
+
+Using Papyrium is subject to the [Terms of Use](https://papyriumlib.com/terms), which the app shows as a license agreement on first launch, and the [Privacy Policy](https://papyriumlib.com/privacy).
 
 ## Issues & Feedback
 

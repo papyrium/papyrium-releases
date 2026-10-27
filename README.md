@@ -1,4 +1,11 @@
-# Papyrium – Releases
+# Papyrium
+
+A desktop app for building and managing your personal book library — **PDF, EPUB, and FB2**.
+For readers who want more than a folder of files.
+
+Papyrium catalogs your books right in the folders where they are, or imports them. Then you can organize, search, read, and annotate them in the app. You can also connect Claude or Codex to your library.
+
+**[Download for Mac](https://github.com/papyrium/papyrium-releases/releases/latest)** · [Website](https://papyriumlib.com) · [Getting Started](https://papyriumlib.com/docs/getting-started) · [FAQ](https://papyriumlib.com/docs/faq)
 
 > **Public beta** — your feedback shapes what comes next. See [Issues & Feedback](#issues--feedback).
 
@@ -9,13 +16,7 @@
   </picture>
 </p>
 
-This repository distributes official Papyrium builds and tracks issues. It does **not** contain application source code.
-
-🌐 **Website:** [papyriumlib.com](https://papyriumlib.com) · 📖 **Docs:** [Getting Started](https://papyriumlib.com/docs/getting-started) · [FAQ](https://papyriumlib.com/docs/faq)
-
-## About Papyrium
-
-Papyrium is a desktop app for building and managing your personal digital book library — designed for readers who want more than a folder of files. It supports **PDF, EPUB, and FB2**.
+## Features
 
 ### Library management
 - Internal library — a built-in managed folder with an Inbox for dropping in new books
@@ -77,3 +78,5 @@ Feedback is genuinely appreciated — every bug report, feature idea, and rough 
 - 💬 Discuss on [r/Papyrium](https://www.reddit.com/r/Papyrium/)
 
 Including your macOS version, your Papyrium version (in the About menu), and a screenshot helps a lot.
+
+This repository distributes official Papyrium builds and tracks issues. It does not contain application source code.

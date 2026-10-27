@@ -1,6 +1,6 @@
 # Papyrium – Releases
 
-> **Public alpha** — Papyrium is in active development. Expect bugs, rough edges, and occasional breaking changes between releases. Back up your library before updating.
+> **Public beta** — your feedback shapes what comes next. See [Issues & Feedback](#issues--feedback).
 
 <p align="center">
   <picture>
@@ -20,11 +20,14 @@ Papyrium is a desktop app for building and managing your personal digital book l
 ### Library management
 - Internal library — a built-in managed folder with an Inbox for dropping in new books
 - Works with your existing folders — connect a local folder or NAS share and Papyrium indexes it in place. Your files stay where they are, your folder structure is preserved.
-- Automatic metadata and cover extraction
+- Keep chosen books offline — they stay readable when the external drive or NAS is disconnected
+- Automatic metadata and cover extraction, plus matching OPF files — a Calibre library brings its tags, series, and ratings along
+- Edit any book's metadata, cover included, and compare it with what's stored in the file
 - Organize with tags, categories, collections, and series
 - Smart collections that auto-populate based on reading status, rating, format, tags, date added, and more
+- Link editions and translations of a book to each other
 - Search with filters
-- Duplicate detection
+- Duplicate detection — same ISBN, identical files, or matching title and author; the import window flags books you already have
 
 ### Built-in reader
 - Read files without leaving the app
@@ -58,17 +61,19 @@ Papyrium is signed with an Apple Developer ID and notarized, so there's no "unid
 
 ## Pricing
 
-Free during the public alpha, and alpha versions stay free to use after it ends. A paid version is planned for later releases, with a founding discount for early users — subscribe to the newsletter on [papyriumlib.com](https://papyriumlib.com) to get it.
+See [pricing](https://papyriumlib.com/#pricing) on the website.
 
 ## Terms and privacy
 
-Using Papyrium is subject to the [Terms of Use](https://papyriumlib.com/terms), which the app shows as a license agreement on first launch, and the [Privacy Policy](https://papyriumlib.com/privacy).
+Using Papyrium is subject to the [Terms of Use](https://papyriumlib.com/terms) and the [Privacy Policy](https://papyriumlib.com/privacy).
 
 ## Issues & Feedback
 
-Found a bug or have an idea?
+Feedback is genuinely appreciated — every bug report, feature idea, and rough impression is read, and it's how Papyrium gets better.
 
 - 🐞 [Report a bug](https://github.com/papyrium/papyrium-releases/issues/new?labels=bug)
 - 💡 [Request a feature](https://github.com/papyrium/papyrium-releases/issues/new?labels=enhancement)
+- ✉️ Email [feedback@papyriumlib.com](mailto:feedback@papyriumlib.com)
+- 💬 Discuss on [r/Papyrium](https://www.reddit.com/r/Papyrium/)
 
 Including your macOS version, your Papyrium version (in the About menu), and a screenshot helps a lot.
